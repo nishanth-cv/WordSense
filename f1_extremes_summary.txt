@@ -1,0 +1,33 @@
+=== Worst 3 Passages (by F1) ===
+
+Passage: " andy 's ancestry " is the third episode of the ninth season of the american comedy television series the office . the episode originally aired on nbc on october 4 , 2012 . the episode was written by jonathan green and gabe miller , and was directed by david rogers . the episode guest stars randall park as jim and pam 's actor friend , steve .
+GT: {'episode', 'originally', 'aired', 'guest stars', 'comedy', 'office', 'linage', 'actor', 'ancestry', 'friend', 'steve', 'television series', 'directed', 'actor friend'}
+Pred: {'original air date'}
+F1: 0.00
+
+Passage: " bosnian serb leader parlays with carter , promises peace moves " . deutsche presse @-@ agentur . december 15 , 1994 .
+GT: {'parlays', 'moves', 'peace', '1994', 'parleys', '@-@', 'presse', 'serb', 'deutsche', 'december', 'agentur'}
+Pred: {'divisions', 'district', 'delegates', 'parliamentary', 'conference'}
+F1: 0.00
+
+Passage: " he always tried to ' accommodate ' matters and bring people to reason , that is to say , in the way he had decided how people and things should be . if someone remained headstrong nonetheless … with a gesture , a nod , he left it to his friends to take care of the problem . every now and then he intervened : ' but who made him do it ? ' , ' who knows what end he will find ' . "
+GT: {'headstrong', 'accommodate', 'gesture', 'decided', 'intervened', 'remained', 'friends', 'reason', 'end', 'matters'}
+Pred: {'remain', 'position'}
+F1: 0.00
+
+=== Best 3 Passages (by F1) ===
+
+Passage: = = = = tenants = = = =
+GT: {'tenants'}
+Pred: {'tenants'}
+F1: 1.00
+
+Passage: = = = declining influence = = =
+GT: {'declining'}
+Pred: {'declining'}
+F1: 1.00
+
+Passage: = = = downloadable content and updates = = =
+GT: {'updates', 'content', 'downloadable'}
+Pred: {'updates', 'content', 'downloadable'}
+F1: 1.00
