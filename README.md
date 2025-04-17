@@ -1,5 +1,5 @@
 
-# WordSense: Fine-Tuned Mistral-7B for Contextual Vocabulary Assistance
+# WordSense: Automatic Detection and Definition of Difficult Words Using Mistral-7B and LoRA
 
 **Author:** Nishanth Chockalingam Veerapandian  
 **Course:** CS6120 – Natural Language Processing  
